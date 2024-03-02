@@ -1,0 +1,279 @@
+body{
+    background-color: beige;
+}
+body:hover{
+    transition: all;
+    transition-duration: 2s;
+    background-color: rgb(193, 223, 31);
+}
+.one{
+    background-color: white;
+    height: 67.4px;
+    text-align: center;
+    display: flex;
+   
+}
+input{
+    background-color: rgb(236, 246, 250);
+    border-radius: 6px;
+    font-size: 17px;
+    height: 40px;
+    width: 408px;
+    border: none;
+    margin-top: 12px;
+    
+    margin-right: 20px;
+    
+}
+img{
+ 
+    margin-right: 40px;
+    margin-left: 50px;
+    margin-bottom: 8px;
+}
+i{
+    font-size: 17px;
+    margin: 25px;
+    height: 24px;
+}
+.second{
+    height: 130px;
+    display: flex;
+    margin: 15px;
+    background-color: white;
+}
+.first{
+    transition: all;
+    transition-duration: 1.3s;
+    
+    display: inline;
+    
+}
+s
+.third{
+    height: 150px;
+    background-image: url('7fd0e4ab26429926.webp');
+    background-size: cover;
+    margin: 15px;
+    background-color: white;
+}
+
+.forth{
+    height: 440px;
+    background-color: white;
+    margin: 15px;
+    
+}
+.forth:hover{
+    transition: all;
+            transition-duration: 2s;
+
+            background-color: rgb(131, 62, 187);
+}
+.top{
+    height: 255px;
+    width: 201px;
+    border: 2px solid rgb(128, 117, 117);
+    display: inline-block;
+    
+    margin-top: 50px;
+    margin-left: 57px;
+    background-size: cover;
+    border-radius: 5px;
+
+}
+.ph{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    transition: all;
+    transition-duration: 1.3s;
+    
+}
+.ph:hover{
+    color: rgb(255, 10, 84);
+   
+}
+.a:hover{
+  
+    color: rgb(255, 123, 0);
+}
+.a{
+    color: black;
+    transition: all;
+    transition-duration: 1.3s;
+}
+.bit{
+   color: black;
+   display: inline;
+   transition: all;
+   transition-duration: 1.3s;
+
+}
+.bit:hover{
+    color: rgb(206, 38, 169);
+  
+}
+.fifth{
+    height: 440px;
+    background-color: white;
+    margin: 15px;
+}
+.fifth:hover{
+    transition: all;
+            transition-duration: 2s;
+
+            background-color: rgb(255, 195, 0);
+}
+.ph1{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    transition: all;
+    transition-duration: 1.3s;
+    
+}
+.ph1:hover{
+
+color: rgb(255, 77, 109);
+}
+.top1{
+    height: 255px;
+    width: 201px;
+    border: 2px solid rgb(128, 117, 117);
+    display: inline-block;
+    
+    margin-top: 50px;
+    margin-left: 57px;
+    background-size: cover;
+    border-radius: 5px;}
+    .ph1{
+        color: black;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+        
+}
+.ph2:hover{
+  color: gold;
+}
+.top2{
+    height: 255px;
+    width: 201px;
+    border: 2px solid rgb(128, 117, 117);
+    display: inline-block;
+    
+        margin-top: 50px;
+        margin-left: 57px;
+        background-size: cover;
+        border-radius: 5px;
+    
+}
+.sixth{
+            height: 440px;
+            background-color: white;
+            margin: 15px;
+}
+.sixth:hover{
+    transition: all;
+            transition-duration: 2s;
+
+            background-color: rgb(64, 65, 55);
+}
+.ph2{
+            color: black;
+            text-decoration: none;
+            font-size: 20px;
+            transition: all;
+            transition-duration: 1.3s;
+            
+            font-weight: bold;
+}     
+
+.seventh{
+
+    height: 340px;
+    background-color: white;
+    margin: 15px;
+
+
+}
+
+.seventh:hover{
+    transition: all;
+            transition-duration: 2s;
+
+            background-color: rgb(255, 173, 173);
+}
+
+.top3{
+    height: 179px;
+    width: 155px;
+    border: 2px solid rgb(128, 117, 117);
+    display: inline-block;
+    
+        margin-top: 50px;
+        margin-left: 57px;
+        background-size: cover;
+        border-radius: 5px;
+    
+}
+.ph3{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all;
+    transition-duration: 1.3s;
+    font-weight: bold;
+}      
+.ph3:hover {
+
+    border-radius: 5px;
+    color: rgb(252, 47, 0);
+
+}    
+.top4{
+    height: 179px;
+    width: 155px;
+    border: 2px solid rgb(128, 117, 117);
+    display: inline-block;
+    
+        margin-top: 50px;
+        margin-left: 57px;
+        background-size: cover;
+        border-radius: 5px;
+    
+}
+.ph4{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all;
+    transition-duration: 1.3s;
+    
+    font-weight: bold;
+} 
+.eight{
+
+    height: 340px;
+    background-color: white;
+    margin: 15px;
+}
+.eight:hover{
+    transition: all;
+            transition-duration: 2s;
+
+            background-color:rgb(157, 2, 8);
+}
+.ph4:hover {
+
+   color: rgb(194, 0, 251);
+}
+
+.h:hover{
+    transition: all;
+    transition-duration:2s ;
+  color: rgb(255, 0, 110)
+}
